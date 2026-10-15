@@ -1,0 +1,7 @@
+baseURL = "https://Neuflix123.github.io/DevOps_Project_JacksonMatondang/"
+languageCode = "en-us"
+title = "DevOps Blog"
+theme = ""
+
+[params]
+description = "Start DevOps journey now!"
