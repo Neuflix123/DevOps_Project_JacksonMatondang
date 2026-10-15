@@ -1,5 +1,3 @@
-DevOps Blog
-
 ---
 
 title: "DevOps Blog"
