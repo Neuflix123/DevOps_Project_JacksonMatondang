@@ -1,3 +1,7 @@
+DevOps Blog
+
 ---
 
-title: "Posts"
+title: "DevOps Blog"
+
+Start DevOps journey now!
